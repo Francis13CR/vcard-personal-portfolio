@@ -114,7 +114,7 @@ const proyectos = [
       '/images/agencia-tour.png'
     ],
     technologies: ['Vue 3', 'TypeScript', 'Vite 7', 'Tailwind CSS 4', 'vue-i18n', 'Web3Forms', 'Lucide Icons', 'SEO', 'Bilingual (ES/EN)', 'Responsive Design', 'Animaciones CSS'],
-    link: 'https://pacific-sun-travel.francismch.dev',
+    link: 'https://demo-pacificsun.francismch.dev',
     github: null
   },
   {
