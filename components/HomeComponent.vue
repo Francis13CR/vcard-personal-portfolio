@@ -15,10 +15,9 @@
               <span ref="typewriter"></span><span class="typewriter-cursor"></span>
             </h2>
             <p class="mb-4" style="color: rgba(255,255,255,0.65); max-width: 520px; line-height:1.75;">
-              Más de 4 años construyendo SaaS que usan miles de negocios ticos.
-              De día lidero sprints en Facture.cr; de noche le sigo metiendo features a
-              <strong style="color: var(--accent);">Agendelo</strong> — mi SaaS multi-tenant favorito
-              (soy parcial, lo sé). Estudio UX/UI en la UCR porque el código bonito por dentro
+              Más de 4 años de experiencia en desarrollo web.
+              Full Stack Developer en Facture.cr; de noche le sigo metiendo features a
+              <strong style="color: var(--accent);">Agendelo</strong>. Estudio UX/UI en la UCR porque el código bonito por dentro
               también debe verse bien por fuera.
             </p>
             <div class="d-flex flex-wrap gap-2 mb-4">
@@ -28,7 +27,7 @@
               <span class="stat-pill">&#9749; Powered by café</span>
             </div>
             <div class="d-flex flex-wrap gap-2 mb-4">
-              <a href="#proyectos" class="btn btn-accent">Ver Proyectos</a>
+              <a href="#proyectos" class="btn btn-accent btn-outline-light" style="border-radius:8px; padding:10px 24px; font-weight:600; cursor:pointer;">Ver Proyectos</a>
               <a @click="$parent.showContact()" class="btn btn-outline-light" style="border-radius:8px; padding:10px 24px; font-weight:600; cursor:pointer;">Contacto</a>
             </div>
             <div class="mt-2">

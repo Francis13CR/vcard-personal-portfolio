@@ -106,7 +106,7 @@ const proyectos = [
   },
   {
     id: 'pacific-sun-travel',
-    title: 'Pacific Sun Travel — Tours en Costa Rica',
+    title: 'Demo Pacific Sun Travel — Tours en Costa Rica',
     description: 'Sitio web profesional para agencia de tours en Costa Rica, bilingüe (español/inglés) con catálogo de 10 paquetes turísticos. Diseñado para mostrar la belleza natural de Costa Rica y convertir visitantes en clientes mediante una experiencia inmersiva.\n\nImplementa diseño de una sola página (SPA) con secciones apiladas: Hero con animación de olas SVG y elementos decorativos (guacamaya, sol), galería de tours con búsqueda y filtros (texto, categoría, duración, ordenamiento), sección "Acerca de" con estadísticas animadas, cuadrícula de testimonios, FAQ con acordeón y formulario de contacto integrado con Web3Forms.\n\nCaracterísticas destacadas: cambio de idioma Español ↔ Inglés con vue-i18n y persistencia en localStorage, búsqueda con normalización de acentos (NFD), contadores animados con useCountUp, animaciones de scroll reveal, diseño completamente responsive con Tailwind CSS 4, cotización desde el modal de tour que auto-prefilla el formulario de contacto, botón flotante de WhatsApp con mensaje localizado, y elementos decorativos animados (guacamaya, sol, olas, palmera, brújula).\n\nConstruido con Vue 3 Composition API, TypeScript estricto, Vite 7, Tailwind CSS 4 con tokens de color personalizados (amarillo, naranja, azul, rojo, morado) y Lucide icons.',
     created_at: new Date('2026-05-12'),
     status: 1,
